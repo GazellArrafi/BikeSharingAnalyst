@@ -17,7 +17,7 @@ Berikut adalah link dashboard:
 https://bikesharinganalyst-gazellarrafi.streamlit.app/
 
 <p align="center">
-  <img src="/" />
+  <img src="/dashboardImg" />
 
 ### Streamlit
 #### Install Dependencies
