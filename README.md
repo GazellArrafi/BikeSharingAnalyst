@@ -2,7 +2,7 @@
 
 ## Analisis data menggunakan google colab
 
-Detail analisis bisa dilihat disini [colab](https://github.com/fikrionii/Dicoding-Bike-Sharing/blob/main/notebook-bikeshare-analysis.ipynb) 🚧
+Detail analisis bisa dilihat disini [colab]()
 
 ### Pertanyaan Bisnis
 - Jam berapa yang mencatatkan jumlah penyewaan sepeda terbanyak dan terendah?
@@ -13,7 +13,7 @@ Detail analisis bisa dilihat disini [colab](https://github.com/fikrionii/Dicodin
 
 ## Dashboard menggunakan Streamlit
 
-Berikut adalah link dashboard: https://capital-bikeshare-alfikri.streamlit.app/ 🚧
+Berikut adalah link dashboard: 
 
 The dashboard shows the count of total rides across the year and season. It also shows the difference casual riders and registered riders use of the bikesharing service, based on hour and day of the week.
 
